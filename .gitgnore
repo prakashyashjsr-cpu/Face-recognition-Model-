@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+streamlit.log
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+
+# Model files (optional)
+face_data.pkl
+
+# Attendance output (optional)
+attendance.csv
